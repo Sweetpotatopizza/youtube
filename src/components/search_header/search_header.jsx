@@ -44,22 +44,3 @@ const SearchHeader = ({ onSearch }) => {
 
 export default SearchHeader;
 
-// const Navbar = (props) => (
-//   <div className={styles.container}>
-//     <form onsubmit={Search()} className={styles.searchForm}>
-//       <input type="text" className={styles.search} action=""></input>
-//       <button
-//         type="submit"
-//         //   onClick={if(props.video.channelTitle === )}
-//         className={styles.button}
-//       ></button>
-//     </formb>
-//   </div>
-// );
-
-// const Search = (props) => {
-//     if(props.video.channelTitle === onsubmit.text){
-
-//     }
-// }
-// export default Navbar;
